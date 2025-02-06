@@ -11,7 +11,7 @@ int main() {
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
         int codigocidade;
         float populacao, area, pib;
-        int pontosturistico;
+        int pontosturisticos;
         char nome;
     
     // Cadastro das Cartas:
@@ -29,7 +29,7 @@ int main() {
         printf("Informe o PIB: \n");
         scanf("%f", &pib);
 
-        printf("Informeo o Número de Pontos Turíscos: \n";
+        printf("Informe o Número de Pontos Turíscos: \n");
         scanf("%d", &pontosturisticos);
 
         printf("Informe o Nome da Cidade: \n");
